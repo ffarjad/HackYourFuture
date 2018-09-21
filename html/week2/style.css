@@ -31,7 +31,7 @@ ul, li {
 }
 
 #grid-floats > .grid-item:nth-child(2) {
-  background-color: rgb(70, 120, 140)
+  background-color: rgb(70, 120, 140);
   grid-column: 3 / 4;
   grid-row: 1 / -1;
 }
