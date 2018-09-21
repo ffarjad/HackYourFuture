@@ -52,11 +52,11 @@ ul, li {
 
   }
   #grid-floats > .grid-item:nth-child(2) {
-    background-color: rgb(70, 120, 140)
+    background-color: rgb(70, 120, 140);
 
   }
   #grid-floats > .grid-item:nth-child(n + 3) {
-    background-color: rgb(70, 120, 140)
+    background-color: rgb(70, 120, 140);
 
   }
 
@@ -68,12 +68,9 @@ ul, li {
 
   }
   #grid-floats > .grid-item:nth-child(n + 2) {
-    background-color: rgb(70, 120, 140)
-    grid-row: unset;
+    background-color: rgb(70, 120, 140);
   }
 }
-
-
 
 /* Flexbox Editing */
 /* For Desktop Computers */
