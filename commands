@@ -1,0 +1,17 @@
+Git clone https://github.com/tdserviceco/cv.git mybrannewcv
+
+git clone https://github.com/ffarjad/HackYourFuture.git YHF
+
+
+mkdir week3
+git init
+
+
+readme
+
+git status
+git add readme && git commit -m "my first commit" && git push
+
+
+
+
