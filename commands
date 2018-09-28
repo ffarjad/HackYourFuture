@@ -11,6 +11,7 @@ readme
 
 git status
 git add readme && git commit -m "my first commit" && git push
+git branch
 
 
 
