@@ -2,7 +2,7 @@
 #Week3-BashScript
 
 mkdir Week3BashScript
-cd Week03BashScript
+cd Week3BashScript
 
 for i in {1..5}
 do echo Hello >> greetings.txt 
